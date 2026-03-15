@@ -1,2 +1,0 @@
-# Zafar-carrom
-ZAFAR @carrom
